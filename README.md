@@ -1,3 +1,5 @@
+![Kali Beautifier Banner](./banner.png)
+
 # Kali Beautifier 🧼🎨
 
 > A Bash script to clean, beautify, and optimize your Kali Linux desktop (XFCE). Make your system look modern, feel lighter, and run smoother.
