@@ -19,9 +19,7 @@ chmod +x kali_beautify.sh
 
 ## 📸 Screenshots
 
-| Before | After |
-|--------|-------|
-| ![](screenshots/before.png) | ![](screenshots/after.png) |
+![image](https://github.com/user-attachments/assets/83e9dd49-78bb-4930-b89c-d158ccf89f2f)
 
 ## 🎨 Apply Themes
 - **Icons & Style**: `Settings > Appearance`
