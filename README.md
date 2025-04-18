@@ -30,4 +30,4 @@ chmod +x kali_beautify.sh
 Licensed under [MIT License](LICENSE)
 
 ---
-Created with ❤️ by zadwen
+Created with ❤ by zadwen
